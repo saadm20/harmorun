@@ -1,16 +1,15 @@
-# harmorun_game
 
-A new Flutter project.
+![Frame 1](https://github.com/saadm20/harmorun/assets/140376848/c83f1402-0a74-4635-ba0d-6a0f7b4905cc)
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+# HarmoRun
+A game made for flam jam-3
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Third Party free assets
+https://pixelfrog-assets.itch.io/pixel-adventure-2
+https://pixelfrog-assets.itch.io/pixel-adventure-1
+https://sfxr.me/
+https://spirit-warrior.itch.io/cold-valleys-winter-themed-pixel-art-asset-pack
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
