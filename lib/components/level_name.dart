@@ -26,9 +26,9 @@ class LevelName extends TextComponent {
       ),
     );
 
-  // text = text;
+   text = text;
     textRenderer = painter;
-    //  add(textComponent);
+    
     return super.onLoad();
   }
 }
